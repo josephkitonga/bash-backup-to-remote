@@ -15,7 +15,7 @@ Available compression options are gzip, files that are older than the specified 
 
 -create a crone job and point it to the location of your backup.sh.
 > 0 0 * * * /var/backups/mysql/backup.sh
-	>this will run “At 00:00.” evry day
+>this will run “At 00:00.” evry day
 
 -Make the bash script executable
  > sudo chmod +x  /var/backups/mysql/backup.sh 
