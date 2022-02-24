@@ -1,5 +1,3 @@
-"[markdown]": { "editor.quickSuggestions": true }
-
 # bash-backup-to-remote
 
 > create a crone job and point it to the location of your backup.sh sudo chmod
